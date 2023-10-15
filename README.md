@@ -1,4 +1,5 @@
-<h1>Hello World, eu sou o Pedro Idiarte e esse é o meu portfólio! <br/><a href="https://github.com/joshmadakor1">Programador Java</a>
+<h1>Hello World!
+Eu sou Pedro Idiarte e esse é o meu portfólio! <br/><a href="https://github.com/pedro-idiarte">Programador Java</a>
 
 <h2>👨‍💻 Sobre mim:</h2>
 
@@ -9,6 +10,8 @@
 - <b>Idade: 27 anos</b>
 
 - <b>Cursando ADS em IFRS (Semestre: 02/06)</b>
+
+- <b>Procurando primeira oportunidade na área</b>
 
 
 
