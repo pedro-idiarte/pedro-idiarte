@@ -24,10 +24,12 @@ Eu sou Pedro Idiarte e esse é o meu portfólio! <br/><a href="https://github.co
 
 <h2>👨‍💻 Área dedicada aos estudos atuais:</h2>
 
-- [Estudos de Arquitetura de Dados em Java](https://github.com/pedro-idiarte/estrutura-dados)
+- <b>Estudos em Java</b>
+  - [Estudos de Arquitetura de Dados em Java](https://github.com/pedro-idiarte/estrutura-dados)
 
 
 <h2> 🤳 Área de contato:</h2>
+
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
