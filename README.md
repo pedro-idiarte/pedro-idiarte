@@ -1,5 +1,4 @@
-<h1>Hello World!
-Eu sou Pedro Idiarte e esse é o meu portfólio! <br/><a href="https://github.com/pedro-idiarte">Programador Java</a>
+<h1>Hello World! Eu sou Pedro Idiarte e esse é o meu portfólio!<br/> <a href="https://github.com/pedro-idiarte">Programador Java</a>
 
 <h2>👨‍💻 Sobre mim:</h2>
 
