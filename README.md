@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Sobre mim:</h2>
 
-- <b>Programador Java sempre buscando novos conhecimentos em outra técnologias</b>
+- <b>Programador Java sempre buscando novos conhecimentos em outras técnologias</b>
 
 - <b>Comunicativo e pró-ativo</b>
 
