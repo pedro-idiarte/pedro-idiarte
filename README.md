@@ -4,7 +4,7 @@
 
 - <b>Programador Java sempre buscando novos conhecimentos em outras técnologias</b>
 
-- <b>Comunicativo e pró-ativo</b>
+- <b>Comunicativo e proativo</b>
 
 - <b>Idade: 27 anos</b>
 
