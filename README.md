@@ -1,4 +1,4 @@
-<h1>Hello World! Eu sou Pedro Idiarte e esse é o meu portfólio!<br/> <a href="https://github.com/pedro-idiarte">Programador Java</a>
+<h1>Hello World! Eu sou Pedro Idiarte e esse é o meu portfólio!<br/> <a href="https://github.com/pedro-idiarte">Portifólio</a>
 
 <h2>👨‍💻 Sobre mim:</h2>
 
@@ -8,9 +8,7 @@
 
 - <b>Cursando ADS em IFRS (Semestre: 04/06)</b>
 
-- <b>Procurando primeira oportunidade na área</b>
-
-
+- <b>Procurando primeira oportunidade na área de TI</b>
 
 <h2>👨‍💻 Desenvolvimento de Projetos:</h2>
 
