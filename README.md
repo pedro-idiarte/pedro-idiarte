@@ -22,6 +22,8 @@
 - <b>Estudos em Java</b>
   - [Estudos de Arquitetura de Dados em Java](https://github.com/pedro-idiarte/estrutura-dados)
 
+- <b>Estudos em Python Avançado e Django</b>
+
 
 <h2> 🤳 Área de contato:</h2>
 
