@@ -6,7 +6,7 @@
 
 - <b>Comunicativo e pró-ativo</b>
 
-- <b>Cursando ADS em IFRS (Semestre: 04/06)</b>
+- <b>Cursando ADS em IFRS (Semestre: 05/06)</b>
 
 - <b>Procurando primeira oportunidade na área de TI</b>
 
