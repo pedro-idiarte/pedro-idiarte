@@ -23,7 +23,7 @@
   - [Estudos de Arquitetura de Dados em Java](https://github.com/pedro-idiarte/estrutura-dados)
 
 - <b>- 🔭 I’m currently working on </b>
-  - [Atualmente estou atuando como Desenvolvedor FullStack na Aceleradora Ágil]
+  - Atualmente estou atuando como Desenvolvedor FullStack na Aceleradora Ágil
   - [Aceleradora Ágil - FrontEnd](https://github.com/aceleradora-TW/e-acelera-front)
   - [Aceleradora Ágil - BackEnd](https://github.com/Aceleradora25/e-acelera-back)
 
