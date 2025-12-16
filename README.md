@@ -23,7 +23,8 @@
   - [Estudos de Arquitetura de Dados em Java](https://github.com/pedro-idiarte/estrutura-dados)
 
 - <b>- 🔭 I’m currently working on </b>
-
+  - [Aceleradora Ágil - FrontEnd](https://github.com/aceleradora-TW/e-acelera-front)
+  - [Aceleradora Ágil - BackEnd](https://github.com/Aceleradora25/e-acelera-back)
 
 <h2> 🤳 Área de contato:</h2>
 
